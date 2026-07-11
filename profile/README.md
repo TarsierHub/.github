@@ -1,13 +1,4 @@
-<div align="center">
-
-### Welcome to Tarsier Hub
-
-**Building amazing software, together.**
-
-[Website](https://github.com/TarsierHub) • [Documentation](https://docs.example.com) • [Blog](https://tarsier-marianz.blogspot.com)
-
-</div>
-
+![Tarsier Hub](https://github.com/TarsierHub/.github/blob/main/images/banner.png) 
 
 
 ### 👋 About Us
