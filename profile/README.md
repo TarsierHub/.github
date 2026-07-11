@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to Tarsier Hub
+### Welcome to Tarsier Hub
 
 **Building amazing software, together.**
 
@@ -10,7 +10,7 @@
 
 
 
-## 👋 About Us
+### 👋 About Us
 
 Welcome to **Tarsier Hub**!
 
@@ -20,7 +20,7 @@ Whether you're here to explore our projects, contribute code, or simply learn fr
 
 
 
-## 📦 Our Projects
+### 📦 Our Projects
 
 Here are some of our featured repositories:
 
